@@ -1,8 +1,7 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Проект для экзамена (сделать магазин с карточками товаров, с возможностью добавления товаров в корзину)
 
-Currently, two official plugins are available:
+![Главная](https://github.com/nokoto6/react-shop-cart-exam-project/edit/master/home.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Корзина](https://github.com/nokoto6/react-shop-cart-exam-project/edit/master/cart.png)

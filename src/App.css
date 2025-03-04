@@ -1,0 +1,19 @@
+body {
+  background-color: #0f161b;
+}
+
+a {
+  padding: unset;
+  margin: unset;
+  font-size: unset;
+  text-decoration: none;
+  color: unset;
+}
+
+.Card {
+  justify-content:space-between;
+}
+
+.Cart-Card {
+  justify-content:space-between;
+}
